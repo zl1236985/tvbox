@@ -1,25 +1,25 @@
-{ "urls": [{ "url": "/饭太硬/api.json", "name": "饭太硬" },
+{ "urls": [{ "url": "./饭太硬/api.json", "name": "饭太硬" },
 
-{ "url": "/小米/api.json", "name": "小米" },
+{ "url": "./小米/api.json", "name": "小米" },
 
-{ "url": "/肥猫/api.json", "name": "肥猫" },
+{ "url": "./肥猫/api.json", "name": "肥猫" },
 
-{ "url": "/王二小/api.json", "name": "王二小" },
+{ "url": "./王二小/api.json", "name": "王二小" },
 
-{ "url": "/OK/api.json", "name": "OK" },
+{ "url": "./OK/api.json", "name": "OK" },
 
-{ "url": "/潇洒/api.json", "name": "潇洒" },
+{ "url": "./潇洒/api.json", "name": "潇洒" },
 
-{ "url": "/摸鱼儿/api.json", "name": "摸鱼儿" },
+{ "url": "./摸鱼儿/api.json", "name": "摸鱼儿" },
 
-{ "url": "/小虎斑/api.json", "name": "小虎斑" },
+{ "url": "./小虎斑/api.json", "name": "小虎斑" },
 
-{ "url": "/欧歌/api.json", "name": "欧歌" },
+{ "url": "./欧歌/api.json", "name": "欧歌" },
 
-{ "url": "/南风/api.json", "name": "南风" },
+{ "url": "./南风/api.json", "name": "南风" },
 
-{ "url": "/香雅情/api.json", "name": "香雅情" },
+{ "url": "./香雅情/api.json", "name": "香雅情" },
 
-{ "url": "/少儿频道/api.json", "name": "少儿频道" },
+{ "url": "./少儿频道/api.json", "name": "少儿频道" },
 
-{ "url": "/戏曲音乐/api.json", "name": "戏曲音乐" }]}
+{ "url": "./戏曲音乐/api.json", "name": "戏曲音乐" }]}
