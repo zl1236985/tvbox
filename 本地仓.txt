@@ -1,25 +1,25 @@
-{ "urls": [{ "url": "https://tvbox-20260225.oss-cn-beijing.aliyuncs.com/tvboxqq/饭太硬/api.json", "name": "饭太硬" },
+{ "urls": [{ "url": "https://tvbox-diu34pz1qg.edgeone.dev/饭太硬/api.json", "name": "饭太硬" },
 
-{ "url": "https://tvbox-20260225.oss-cn-beijing.aliyuncs.com/tvboxqq/小米/api.json", "name": "小米" },
+{ "url": "https://tvbox-diu34pz1qg.edgeone.dev/小米/api.json", "name": "小米" },
 
-{ "url": "https://tvbox-20260225.oss-cn-beijing.aliyuncs.com/tvboxqq/肥猫/api.json", "name": "肥猫" },
+{ "url": "https://tvbox-diu34pz1qg.edgeone.dev/肥猫/api.json", "name": "肥猫" },
 
-{ "url": "https://tvbox-20260225.oss-cn-beijing.aliyuncs.com/tvboxqq/王二小/api.json", "name": "王二小" },
+{ "url": "https://tvbox-diu34pz1qg.edgeone.dev/王二小/api.json", "name": "王二小" },
 
-{ "url": "https://tvbox-20260225.oss-cn-beijing.aliyuncs.com/tvboxqq/OK/api.json", "name": "OK" },
+{ "url": "https://tvbox-diu34pz1qg.edgeone.dev/OK/api.json", "name": "OK" },
 
-{ "url": "https://tvbox-20260225.oss-cn-beijing.aliyuncs.com/tvboxqq/潇洒/api.json", "name": "潇洒" },
+{ "url": "https://tvbox-diu34pz1qg.edgeone.dev/潇洒/api.json", "name": "潇洒" },
 
-{ "url": "https://tvbox-20260225.oss-cn-beijing.aliyuncs.com/tvboxqq/摸鱼儿/api.json", "name": "摸鱼儿" },
+{ "url": "https://tvbox-diu34pz1qg.edgeone.dev/摸鱼儿/api.json", "name": "摸鱼儿" },
 
-{ "url": "https://tvbox-20260225.oss-cn-beijing.aliyuncs.com/tvboxqq/小虎斑/api.json", "name": "小虎斑" },
+{ "url": "https://tvbox-diu34pz1qg.edgeone.dev/小虎斑/api.json", "name": "小虎斑" },
 
-{ "url": "https://tvbox-20260225.oss-cn-beijing.aliyuncs.com/tvboxqq/欧歌/api.json", "name": "欧歌" },
+{ "url": "https://tvbox-diu34pz1qg.edgeone.dev/欧歌/api.json", "name": "欧歌" },
 
-{ "url": "https://tvbox-20260225.oss-cn-beijing.aliyuncs.com/tvboxqq/南风/api.json", "name": "南风" },
+{ "url": "https://tvbox-diu34pz1qg.edgeone.dev/南风/api.json", "name": "南风" },
 
-{ "url": "https://tvbox-20260225.oss-cn-beijing.aliyuncs.com/tvboxqq/香雅情/api.json", "name": "香雅情" },
+{ "url": "https://tvbox-diu34pz1qg.edgeone.dev/香雅情/api.json", "name": "香雅情" },
 
-{ "url": "https://tvbox-20260225.oss-cn-beijing.aliyuncs.com/tvboxqq/少儿频道/api.json", "name": "少儿频道" },
+{ "url": "https://tvbox-diu34pz1qg.edgeone.dev/少儿频道/api.json", "name": "少儿频道" },
 
-{ "url": "https://tvbox-20260225.oss-cn-beijing.aliyuncs.com/tvboxqq/戏曲音乐/api.json", "name": "戏曲音乐" }]}
+{ "url": "https://tvbox-diu34pz1qg.edgeone.dev/戏曲音乐/api.json", "name": "戏曲音乐" }]}
