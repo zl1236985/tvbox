@@ -14,7 +14,7 @@
     "sites": [
         {
             "key": "drpy_js_豆瓣",
-            "name": "导航|小虎斑的口粮",
+            "name": "导航|新春贺喜(虎)",
             "type": 3,
             "api": "csp_Douban",
             "ext": "./json/douban.json"
@@ -30,7 +30,7 @@
             "name": "应用|更新",
             "type": 3,
             "api": "csp_Market",
-            "ext": "aHR0cHM6Ly84OTI0LmtzdG9yZS5zcGFjZS9odWJhbi9tYXJrLmpzb24="
+            "ext": "aHR0cHM6Ly94aWFvaHViYW4uY24tbmIxLnJhaW5zMy5jb20vbWFyay5qc29u"
         },
         {
             "key": "设置",
@@ -420,12 +420,6 @@
                 "分类url": "https://v.xlys.ltd.ua/s/all/{catePg}?type={cateId};;d0",
                 "分类": "电影$0#电视剧$1"
             }
-        },
-        {
-            "key": "苹果",
-            "name": "苹果|弹幕",
-            "type": 3,
-            "api": "csp_HBPguo"
         },
         {
             "key": "天天",
